@@ -1,6 +1,4 @@
 # Hello-World
-This project is about Universal Technologies Groups. It is Your Technology. It is Our Technologies Group. 
-
-It is Her Technology. It is His Technology. It is Technology of the Time.
+This is an AI Poject to control any Drone and UFO intrusion in a war zone. We are, as citizens, obliged to collaborate for an effective and efficiant accomplishment of the project. I, welcome you all, and am responsible for the right production.
 
 
